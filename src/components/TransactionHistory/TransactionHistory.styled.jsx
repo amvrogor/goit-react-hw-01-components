@@ -5,6 +5,8 @@ export const Table = styled.table`
   margin: 0 auto 30px auto;
   border-collapse: collapse;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+  overflow: hidden;
 `;
 
 export const TableHead = styled.thead``;
